@@ -1,1 +1,1 @@
-newfile
+pull時のrebase用
