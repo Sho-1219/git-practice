@@ -3,3 +3,4 @@
 rebase-practiceで更新
 rebase-pull用
 stash練習用
+stash untrac
